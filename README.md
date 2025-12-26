@@ -8,7 +8,7 @@
 Contact me- 
 
 <a href="https://linkedin.com/in/rohit-gomladu-0245202a1">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 </a>
 
 ### 🛠️ Skills
