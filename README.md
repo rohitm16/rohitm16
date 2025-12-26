@@ -1,9 +1,9 @@
 ## Hi!! 👋 I am Rohit Gomladu
 
-- 🎓 B.Tech (EEE) @ IIT Guwahati  
+- 🎓 B.Tech (EEE) at IIT Guwahati  
 - 💻 Interested in Verilog, VLSI, RTL Design  
-- 🚀 Learn by building and experimenting  
-- 📫 r.gomladu@iitg.ac.in | rm73336136@gmail.com  
+- 🚀 I Learn by trying things  
+- 📫 reach me at r.gomladu@iitg.ac.in
 
 ### Contact
 <p>
