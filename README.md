@@ -5,7 +5,7 @@
 - 🚀 I Learn by trying Things
 - 📫 Reach me at r.gomladu@iitg.ac.in or rm73336136@gmail.com
 
-# Contact me- 
+# Contact me
 
 <p> 
 <a href="https://linkedin.com/in/rohit-gomladu-0245202a1">
